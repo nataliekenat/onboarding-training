@@ -1,0 +1,6 @@
+[submodule "wss-java-training"]
+	path = wss-java-training
+	url = https://github.com/samjcs/wss-java-training
+[submodule "wss-go-training"]
+	path = wss-go-training
+	url = https://github.com/samjcs/wss-go-training
